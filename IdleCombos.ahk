@@ -48,8 +48,8 @@ global DummyData := "&language_id=1&timestamp=0&request_id=0&network_id=11&mobil
 global CodestoEnter := ""
 
 ;User info globals
-global UserID := 0
-global UserHash := 0
+global UserID := 1528537
+global UserHash := 0b18613fa99f01021024124215defca8
 global InstanceID := 0
 global UserDetails := []
 global ActiveInstance := 0
